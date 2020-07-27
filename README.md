@@ -1,1 +1,2 @@
-"# GoogleLaunch" 
+"# NOT AFFILIATED WITH GOOGLE" 
+"#PYTHON 3 REQUIRED"
